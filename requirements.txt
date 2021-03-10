@@ -1,1 +1,6 @@
-paddlepaddle
+numpy
+torch>=1.2
+torchvision
+matplotlib
+pillow
+tqdm
